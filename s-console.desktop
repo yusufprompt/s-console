@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=S-Console
+Comment=S-Console Super-Console or Seurce-Console
+Exec=s-console
+Icon=s-console
+Type=Application
+Categories=System;TerminalEmulator;
+StartupWMClass=s-console
+Terminal=false

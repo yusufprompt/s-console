@@ -1,0 +1,4 @@
+s-console
+src/
+pkg/
+*.tar.zst
